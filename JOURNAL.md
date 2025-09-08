@@ -3,3 +3,4 @@
 Personal development log.
 
 ## 2025-09-07 — Maintenance sweep
+## 2025-09-08 — Docs upkeep
