@@ -11,3 +11,4 @@ Personal development log.
 ## 2025-09-13 — Maintenance sweep
 ## 2025-09-14 — Design sketching
 ## 2025-09-15 — Reading and reference gathering
+## 2025-09-17 — Tooling and config tweaks
