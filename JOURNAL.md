@@ -12,3 +12,4 @@ Personal development log.
 ## 2025-09-14 — Design sketching
 ## 2025-09-15 — Reading and reference gathering
 ## 2025-09-17 — Tooling and config tweaks
+## 2025-09-18 — Planning session
