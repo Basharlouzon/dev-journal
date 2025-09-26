@@ -20,3 +20,4 @@ Personal development log.
 ## 2025-09-23 — Refactor practice
 ## 2025-09-24 — Bug triage and notes
 ## 2025-09-25 — Maintenance sweep
+## 2025-09-26 — Research and reading
