@@ -23,3 +23,4 @@ Personal development log.
 ## 2025-09-26 — Research and reading
 ## 2025-09-27 — Docs upkeep
 ## 2025-09-28 — Refactor practice
+## 2025-09-29 — Planning session
