@@ -26,3 +26,4 @@ Personal development log.
 ## 2025-09-29 — Planning session
 ## 2025-09-30 — Design sketching
 ## 2025-10-01 — Design sketching
+## 2025-10-02 — Idea capture and outlining
