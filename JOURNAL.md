@@ -32,3 +32,4 @@ Personal development log.
 ## 2025-10-06 — Docs upkeep
 ## 2025-10-07 — Side project exploration
 ## 2025-10-08 — Bug triage and notes
+## 2025-10-09 — Idea capture and outlining
