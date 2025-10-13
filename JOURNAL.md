@@ -36,3 +36,4 @@ Personal development log.
 ## 2025-10-10 — Scratch prototyping
 ## 2025-10-11 — Planning session
 ## 2025-10-12 — Reading and reference gathering
+## 2025-10-13 — Learning and experimentation
