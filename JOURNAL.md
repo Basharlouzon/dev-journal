@@ -41,3 +41,4 @@ Personal development log.
 ## 2025-10-15 — Learning and experimentation
 ## 2025-10-16 — Planning session
 ## 2025-10-17 — Research and reading
+## 2025-10-18 — Maintenance sweep
