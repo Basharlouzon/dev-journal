@@ -49,3 +49,4 @@ Personal development log.
 ## 2025-10-23 — Learning and experimentation
 ## 2025-10-24 — Bug triage and notes
 ## 2025-10-25 — Design sketching
+## 2025-10-26 — Research and reading
