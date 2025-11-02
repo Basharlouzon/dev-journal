@@ -53,3 +53,4 @@ Personal development log.
 ## 2025-10-27 — Code review and cleanup
 ## 2025-10-30 — Tooling and config tweaks
 ## 2025-10-31 — Side project exploration
+## 2025-11-02 — Refactor practice
