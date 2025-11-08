@@ -58,3 +58,4 @@ Personal development log.
 ## 2025-11-05 — Side project exploration
 ## 2025-11-06 — Docs upkeep
 ## 2025-11-07 — Reading and reference gathering
+## 2025-11-08 — Planning session
