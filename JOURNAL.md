@@ -61,3 +61,4 @@ Personal development log.
 ## 2025-11-08 — Planning session
 ## 2025-11-09 — Planning session
 ## 2025-11-10 — Code review and cleanup
+## 2025-11-11 — Scratch prototyping
