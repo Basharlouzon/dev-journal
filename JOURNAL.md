@@ -64,3 +64,4 @@ Personal development log.
 ## 2025-11-11 — Scratch prototyping
 ## 2025-11-12 — Learning and experimentation
 ## 2025-11-13 — Planning session
+## 2025-11-14 — Bug triage and notes
