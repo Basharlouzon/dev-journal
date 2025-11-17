@@ -67,3 +67,4 @@ Personal development log.
 ## 2025-11-14 — Bug triage and notes
 ## 2025-11-15 — Docs upkeep
 ## 2025-11-16 — Code review and cleanup
+## 2025-11-17 — Docs upkeep
