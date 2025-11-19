@@ -69,3 +69,4 @@ Personal development log.
 ## 2025-11-16 — Code review and cleanup
 ## 2025-11-17 — Docs upkeep
 ## 2025-11-18 — Reading and reference gathering
+## 2025-11-19 — Maintenance sweep
