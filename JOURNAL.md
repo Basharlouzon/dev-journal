@@ -70,3 +70,4 @@ Personal development log.
 ## 2025-11-17 — Docs upkeep
 ## 2025-11-18 — Reading and reference gathering
 ## 2025-11-19 — Maintenance sweep
+## 2025-11-20 — Tooling and config tweaks
