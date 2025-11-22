@@ -72,3 +72,4 @@ Personal development log.
 ## 2025-11-19 — Maintenance sweep
 ## 2025-11-20 — Tooling and config tweaks
 ## 2025-11-21 — Reading and reference gathering
+## 2025-11-22 — Side project exploration
