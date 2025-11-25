@@ -75,3 +75,4 @@ Personal development log.
 ## 2025-11-22 — Side project exploration
 ## 2025-11-23 — Docs upkeep
 ## 2025-11-24 — Code review and cleanup
+## 2025-11-25 — Design sketching
