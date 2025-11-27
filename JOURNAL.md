@@ -77,3 +77,4 @@ Personal development log.
 ## 2025-11-24 — Code review and cleanup
 ## 2025-11-25 — Design sketching
 ## 2025-11-26 — Learning and experimentation
+## 2025-11-27 — Planning session
