@@ -78,3 +78,4 @@ Personal development log.
 ## 2025-11-25 — Design sketching
 ## 2025-11-26 — Learning and experimentation
 ## 2025-11-27 — Planning session
+## 2025-11-28 — Bug triage and notes
