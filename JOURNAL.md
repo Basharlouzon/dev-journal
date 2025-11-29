@@ -79,3 +79,4 @@ Personal development log.
 ## 2025-11-26 — Learning and experimentation
 ## 2025-11-27 — Planning session
 ## 2025-11-28 — Bug triage and notes
+## 2025-11-29 — Tooling and config tweaks
