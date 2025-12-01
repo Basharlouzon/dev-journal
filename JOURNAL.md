@@ -81,3 +81,4 @@ Personal development log.
 ## 2025-11-28 — Bug triage and notes
 ## 2025-11-29 — Tooling and config tweaks
 ## 2025-11-30 — Planning session
+## 2025-12-01 — Reading and reference gathering
