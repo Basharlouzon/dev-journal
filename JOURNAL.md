@@ -82,3 +82,4 @@ Personal development log.
 ## 2025-11-29 — Tooling and config tweaks
 ## 2025-11-30 — Planning session
 ## 2025-12-01 — Reading and reference gathering
+## 2025-12-02 — Tooling and config tweaks
