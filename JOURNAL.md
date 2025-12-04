@@ -84,3 +84,4 @@ Personal development log.
 ## 2025-12-01 — Reading and reference gathering
 ## 2025-12-02 — Tooling and config tweaks
 ## 2025-12-03 — Code review and cleanup
+## 2025-12-04 — Refactor practice
