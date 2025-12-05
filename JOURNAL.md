@@ -85,3 +85,4 @@ Personal development log.
 ## 2025-12-02 — Tooling and config tweaks
 ## 2025-12-03 — Code review and cleanup
 ## 2025-12-04 — Refactor practice
+## 2025-12-05 — Scratch prototyping
