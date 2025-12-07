@@ -87,3 +87,4 @@ Personal development log.
 ## 2025-12-04 — Refactor practice
 ## 2025-12-05 — Scratch prototyping
 ## 2025-12-06 — Reading and reference gathering
+## 2025-12-07 — Refactor practice
