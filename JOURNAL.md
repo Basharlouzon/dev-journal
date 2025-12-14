@@ -94,3 +94,4 @@ Personal development log.
 ## 2025-12-11 — Code review and cleanup
 ## 2025-12-12 — Code review and cleanup
 ## 2025-12-13 — Notes and snippets
+## 2025-12-14 — Bug triage and notes
