@@ -96,3 +96,4 @@ Personal development log.
 ## 2025-12-13 — Notes and snippets
 ## 2025-12-14 — Bug triage and notes
 ## 2025-12-15 — Tooling and config tweaks
+## 2025-12-16 — Planning session
