@@ -98,3 +98,4 @@ Personal development log.
 ## 2025-12-15 — Tooling and config tweaks
 ## 2025-12-16 — Planning session
 ## 2025-12-17 — Refactor practice
+## 2025-12-18 — Maintenance sweep
