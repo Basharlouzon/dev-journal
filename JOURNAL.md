@@ -104,3 +104,4 @@ Personal development log.
 ## 2025-12-22 — Learning and experimentation
 ## 2025-12-23 — Docs upkeep
 ## 2025-12-24 — Research and reading
+## 2025-12-25 — Research and reading
