@@ -107,3 +107,4 @@ Personal development log.
 ## 2025-12-25 — Research and reading
 ## 2025-12-26 — Research and reading
 ## 2025-12-27 — Refactor practice
+## 2025-12-28 — Learning and experimentation
