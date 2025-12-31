@@ -110,3 +110,4 @@ Personal development log.
 ## 2025-12-28 — Learning and experimentation
 ## 2025-12-29 — Reading and reference gathering
 ## 2025-12-30 — Maintenance sweep
+## 2025-12-31 — Design sketching
