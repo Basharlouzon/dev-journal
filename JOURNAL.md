@@ -111,3 +111,4 @@ Personal development log.
 ## 2025-12-29 — Reading and reference gathering
 ## 2025-12-30 — Maintenance sweep
 ## 2025-12-31 — Design sketching
+## 2026-01-01 — Side project exploration
