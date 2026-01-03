@@ -113,3 +113,4 @@ Personal development log.
 ## 2025-12-31 — Design sketching
 ## 2026-01-01 — Side project exploration
 ## 2026-01-02 — Scratch prototyping
+## 2026-01-03 — Notes and snippets
