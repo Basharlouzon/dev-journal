@@ -114,3 +114,4 @@ Personal development log.
 ## 2026-01-01 — Side project exploration
 ## 2026-01-02 — Scratch prototyping
 ## 2026-01-03 — Notes and snippets
+## 2026-01-04 — Tooling and config tweaks
