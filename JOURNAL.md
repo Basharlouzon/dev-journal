@@ -115,3 +115,4 @@ Personal development log.
 ## 2026-01-02 — Scratch prototyping
 ## 2026-01-03 — Notes and snippets
 ## 2026-01-04 — Tooling and config tweaks
+## 2026-01-05 — Code review and cleanup
