@@ -121,3 +121,4 @@ Personal development log.
 ## 2026-01-08 — Research and reading
 ## 2026-01-09 — Bug triage and notes
 ## 2026-01-10 — Tooling and config tweaks
+## 2026-01-15 — Bug triage and notes
