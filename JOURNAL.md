@@ -126,3 +126,4 @@ Personal development log.
 ## 2026-01-18 — Idea capture and outlining
 ## 2026-01-22 — Bug triage and notes
 ## 2026-01-23 — Bug triage and notes
+## 2026-01-24 — Reading and reference gathering
