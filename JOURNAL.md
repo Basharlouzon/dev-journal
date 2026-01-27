@@ -128,3 +128,4 @@ Personal development log.
 ## 2026-01-23 — Bug triage and notes
 ## 2026-01-24 — Reading and reference gathering
 ## 2026-01-25 — Planning session
+## 2026-01-27 — Scratch prototyping
