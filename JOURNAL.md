@@ -138,3 +138,4 @@ Personal development log.
 ## 2026-02-10 — Side project exploration
 ## 2026-02-14 — Reading and reference gathering
 ## 2026-02-15 — Idea capture and outlining
+## 2026-02-17 — Scratch prototyping
