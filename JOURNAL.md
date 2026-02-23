@@ -144,3 +144,4 @@ Personal development log.
 ## 2026-02-20 — Planning session
 ## 2026-02-21 — Maintenance sweep
 ## 2026-02-22 — Research and reading
+## 2026-02-23 — Reading and reference gathering
