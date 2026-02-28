@@ -149,3 +149,4 @@ Personal development log.
 ## 2026-02-25 — Learning and experimentation
 ## 2026-02-26 — Reading and reference gathering
 ## 2026-02-27 — Bug triage and notes
+## 2026-02-28 — Refactor practice
