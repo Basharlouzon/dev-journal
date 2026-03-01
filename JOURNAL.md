@@ -150,3 +150,4 @@ Personal development log.
 ## 2026-02-26 — Reading and reference gathering
 ## 2026-02-27 — Bug triage and notes
 ## 2026-02-28 — Refactor practice
+## 2026-03-01 — Idea capture and outlining
