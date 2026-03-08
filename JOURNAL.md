@@ -156,3 +156,4 @@ Personal development log.
 ## 2026-03-05 — Learning and experimentation
 ## 2026-03-06 — Notes and snippets
 ## 2026-03-07 — Refactor practice
+## 2026-03-08 — Scratch prototyping
