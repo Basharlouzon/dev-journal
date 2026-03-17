@@ -164,3 +164,4 @@ Personal development log.
 ## 2026-03-14 — Learning and experimentation
 ## 2026-03-15 — Maintenance sweep
 ## 2026-03-16 — Research and reading
+## 2026-03-17 — Notes and snippets
