@@ -166,3 +166,4 @@ Personal development log.
 ## 2026-03-16 — Research and reading
 ## 2026-03-17 — Notes and snippets
 ## 2026-03-18 — Design sketching
+## 2026-03-19 — Idea capture and outlining
