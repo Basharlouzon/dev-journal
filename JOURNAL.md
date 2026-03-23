@@ -170,3 +170,4 @@ Personal development log.
 ## 2026-03-20 — Notes and snippets
 ## 2026-03-21 — Maintenance sweep
 ## 2026-03-22 — Notes and snippets
+## 2026-03-23 — Refactor practice
