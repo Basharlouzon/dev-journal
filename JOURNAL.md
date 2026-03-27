@@ -174,3 +174,4 @@ Personal development log.
 ## 2026-03-24 — Idea capture and outlining
 ## 2026-03-25 — Bug triage and notes
 ## 2026-03-26 — Maintenance sweep
+## 2026-03-27 — Refactor practice
