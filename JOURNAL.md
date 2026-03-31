@@ -178,3 +178,4 @@ Personal development log.
 ## 2026-03-28 — Research and reading
 ## 2026-03-29 — Docs upkeep
 ## 2026-03-30 — Planning session
+## 2026-03-31 — Learning and experimentation
