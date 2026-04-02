@@ -180,3 +180,4 @@ Personal development log.
 ## 2026-03-30 — Planning session
 ## 2026-03-31 — Learning and experimentation
 ## 2026-04-01 — Planning session
+## 2026-04-02 — Docs upkeep
