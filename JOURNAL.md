@@ -183,3 +183,4 @@ Personal development log.
 ## 2026-04-02 — Docs upkeep
 ## 2026-04-03 — Bug triage and notes
 ## 2026-04-04 — Notes and snippets
+## 2026-04-06 — Tooling and config tweaks
