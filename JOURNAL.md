@@ -186,3 +186,4 @@ Personal development log.
 ## 2026-04-06 — Tooling and config tweaks
 ## 2026-04-07 — Learning and experimentation
 ## 2026-04-08 — Research and reading
+## 2026-04-09 — Side project exploration
