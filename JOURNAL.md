@@ -187,3 +187,4 @@ Personal development log.
 ## 2026-04-07 — Learning and experimentation
 ## 2026-04-08 — Research and reading
 ## 2026-04-09 — Side project exploration
+## 2026-04-10 — Notes and snippets
