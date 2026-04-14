@@ -190,3 +190,4 @@ Personal development log.
 ## 2026-04-10 — Notes and snippets
 ## 2026-04-12 — Docs upkeep
 ## 2026-04-13 — Maintenance sweep
+## 2026-04-14 — Bug triage and notes
