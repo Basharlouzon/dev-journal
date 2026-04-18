@@ -194,3 +194,4 @@ Personal development log.
 ## 2026-04-15 — Refactor practice
 ## 2026-04-16 — Scratch prototyping
 ## 2026-04-17 — Learning and experimentation
+## 2026-04-18 — Side project exploration
