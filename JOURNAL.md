@@ -198,3 +198,4 @@ Personal development log.
 ## 2026-04-19 — Maintenance sweep
 ## 2026-04-21 — Planning session
 ## 2026-04-22 — Code review and cleanup
+## 2026-04-23 — Research and reading
