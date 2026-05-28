@@ -209,3 +209,4 @@ Personal development log.
 ## 2026-05-08 — Docs upkeep
 ## 2026-05-15 — Reading and reference gathering
 ## 2026-05-20 — Planning session
+## 2026-05-28 — Tooling and config tweaks
