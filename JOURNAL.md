@@ -211,3 +211,4 @@ Personal development log.
 ## 2026-05-20 — Planning session
 ## 2026-05-28 — Tooling and config tweaks
 ## 2026-06-09 — Notes and snippets
+## 2026-06-13 — Bug triage and notes
