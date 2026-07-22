@@ -220,3 +220,4 @@ Personal development log.
 ## 2026-07-19 — Tooling and config tweaks
 ## 2026-07-20 — Scratch prototyping
 ## 2026-07-21 — Maintenance sweep
+## 2026-07-22 — Reading and reference gathering
