@@ -224,3 +224,4 @@ Personal development log.
 ## 2026-07-23 — Notes and snippets
 ## 2026-07-24 — Maintenance sweep
 ## 2026-08-01 — Tooling and config tweaks
+## 2026-08-03 — Planning session
