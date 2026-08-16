@@ -228,3 +228,4 @@ Personal development log.
 ## 2026-08-04 — Tooling and config tweaks
 ## 2026-08-13 — Reading and reference gathering
 ## 2026-08-14 — Idea capture and outlining
+## 2026-08-16 — Reading and reference gathering
