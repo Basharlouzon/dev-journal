@@ -231,3 +231,4 @@ Personal development log.
 ## 2026-08-16 — Reading and reference gathering
 ## 2026-08-18 — Side project exploration
 ## 2026-08-24 — Planning session
+## 2026-09-02 — Docs upkeep
