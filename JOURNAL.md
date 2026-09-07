@@ -233,3 +233,4 @@ Personal development log.
 ## 2026-08-24 — Planning session
 ## 2026-09-02 — Docs upkeep
 ## 2026-09-04 — Design sketching
+## 2026-09-07 — Notes and snippets
